@@ -4,4 +4,5 @@ export class Item {
     price: number = 0;
     quantity: number = 0;
     completed: boolean = false;
+  static id: string;
 }

@@ -1,0 +1,8 @@
+[{"id":"17bfe5a3-ade9-489d-bdca-b018a481acd7",
+    "title":"Servilletas",
+    "price":"20"
+    ,"quantity":"1",
+    "completed":false},
+    {"title":"Tarjetas para laptop",
+        "price":"9000","quantity":"2","completed":false,"id":"6deae773-e871-4a2f-a45c-7bab58b1ccdc"},
+        {"title":"Pan","price":"4","quantity":"5","completed":false,"id":"c28bf4f2-5b02-449c-a798-901c5a6b0eb9"}]
